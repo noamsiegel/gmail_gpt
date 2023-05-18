@@ -12,11 +12,11 @@ The script also handles HTML content, removes URLs, and supports splitting long 
 
 - Aggregate email summarizes and send a summary at 24:00 every day
   - Either through email
-  - Or through text, email by email
+  - Or through sms, email by email
 - Archive emails that have been summarized
-  - Or moved them to another folder?
-- Make setting up process simpler
-- Make summaries into bullet points ordered my "importance"?
+  - Or move them to an "Archived" folder?
+- Make the setting up process simpler
+- Make summaries into bullet points ordered by "importance"?
 
 ## Getting started
 
