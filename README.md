@@ -16,6 +16,7 @@ The script also handles HTML content, removes URLs, and supports splitting long 
 - Archive emails that have been summarized
   - Or moved them to another folder?
 - Make setting up process simpler
+- Make summaries into bullet points ordered my "importance"?
 
 ## Getting started
 
