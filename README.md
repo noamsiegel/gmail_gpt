@@ -19,6 +19,7 @@ The script also handles HTML content, removes URLs, and supports splitting long 
   - Or move them to an "Archived" folder?
 - Make the setting up process simpler
 - Make summaries into bullet points ordered by "importance"?
+- If email is too large (+10,000K tokens), add gmail url to summary
 
 ## Getting started
 
